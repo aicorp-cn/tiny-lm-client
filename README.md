@@ -640,7 +640,7 @@ pip install -r requirements-dev.txt
 
 ## 📄 许可证
 
-MIT License
+Apache 2.0 License
 
 ## 🙏 致谢
 
