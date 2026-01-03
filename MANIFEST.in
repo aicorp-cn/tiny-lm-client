@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include tiny_lm_client *.py
